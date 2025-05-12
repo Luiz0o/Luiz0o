@@ -12,11 +12,4 @@
  
  <br>
  
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UCHHKQNBvj6Scy81UfZKUT2A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/luiz_felipe0o/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/Luiz0o/Luiz0o/blob/output/github-contribution-grid-snake.svg)
 
-</div>
